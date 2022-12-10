@@ -3,7 +3,7 @@ import './App.css'
 import SearchIcon from './search.svg'
 import MovieCard from './MovieCard'
 
-const API_URL = 'http://www.omdbapi.com?apikey=493b0ecc'
+const API_URL = 'https://www.omdbapi.com?apikey=493b0ecc'
 
 // const movie1 = {
 //   Title: 'The Amazing Spiderman 2 Webb Cut',
